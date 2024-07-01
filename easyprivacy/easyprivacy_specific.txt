@@ -3,6 +3,7 @@
 ||342251b-beta.perplexity.ai/api/$xmlhttprequest
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
+||4kporn.xxx/static/analytics/
 ||4shared.com/js/d1VisitsCounter.4min.js
 ||9gag.com/event/
 ||9gag.com/track/
@@ -22,6 +23,7 @@
 ||about.me/track?
 ||abysscdn.com/cdn-cgi/trace
 ||academia.edu/record_hit
+||acast.com/api/stats
 ||accor.com/g/collect?
 ||accuterm.com/data/stat.js
 ||acronymfinder.com/~/tr.ashx
@@ -59,7 +61,6 @@
 ||aiv-delivery.net/v1/ReportEvent
 ||akamaihd.net/paay6hyr.gif?
 ||alb.reddit.com^
-||algolia.net/1/isalive?
 ||alicdn.com/AWSC/et/
 ||aliexpress.com/ts?
 ||alipay.com/web/bi.do?ref=
@@ -85,6 +86,7 @@
 ||analytics-api.dvdfab.
 ||analytics-batch.blitz.gg^
 ||analytics-proxy.springboard.com^
+||analytics-server.arras.cx^
 ||analytics-tracking.meetup.com^
 ||analytics-wcms.joins.net^
 ||analytics-zone-1.api.leadfamly.com^
@@ -367,6 +369,7 @@
 ||deovr.com/api_logs/
 ||dev.to/fallback_activity_recorder
 ||developer.mozilla.org/submit/
+||developers.miro.com/pageview
 ||df.infra.shopee.
 ||df.infra.sz.shopee.
 ||dhl.com/g8Dj6P8TAg/
@@ -465,6 +468,7 @@
 ||events2.www.edenfantasys.com^
 ||evs.icy-lake.kickstarter.com^
 ||evs.sgmt.loom.com^$script
+||excess.duolingo.com/batch
 ||expedia.*/cl/
 ||experiences.wyng.com/api/*/event-api/events
 ||expressvpn.com/__px.gif?
@@ -773,6 +777,7 @@
 ||lookawoman.com/t/
 ||lowes.com/gauge/
 ||lyft.com/api/track
+||lyngsat.com/system/loadclick.js
 ||m.facebook.com/ajax/weblite_load_logging/
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||ma.redhat.com^
@@ -962,6 +967,7 @@
 ||pixel.tuko.co.ke^
 ||pixelzirkus.gameforge.com^
 ||pixiedust.buzzfeed.com^
+||pks-analytics.raenonx.cc^
 ||pl.letsblock.it^
 ||planetradio.co.uk/crystal/log
 ||plausible.bots.gg^
@@ -1024,6 +1030,7 @@
 ||r.apkpure.net^
 ||r.bbci.co.uk^
 ||raenonx.cc/api/analytics
+||raenonx.cc/api/usage
 ||raindrop.io/pb/api/event
 ||rakuten.com/rmsgjs/soj2.js
 ||ranker.com/api/px
@@ -1229,6 +1236,10 @@
 ||strtpe.link/stat/
 ||stubhub.com/a/icph
 ||suaurl.com/adblock/js/smarttag.js
+||support.github.com/_event
+||support.github.com/_stats
+||support.github.com/session/event
+||support.github.com/session/user
 ||svc.eu01.miro.com/api/stream/
 ||svc.us01.miro.com/api/stream/
 ||swarm.video/stats/
@@ -1381,9 +1392,11 @@
 ||tracking.unrealengine.com^
 ||trackr.vivenu.com^
 ||tradingview.com/ping
+||trck.coomeet.com^
 ||trcksplt.miro.com^
 ||treatment.grammarly.com^
 ||tredir.go.com^
+||trends.privacywall.org^
 ||tripadvisor.*/BALinkImpressionTracking/
 ||tripadvisor.*/CookiePingback?
 ||tripadvisor.*/GARecord^
@@ -1402,7 +1415,6 @@
 ||tumblr.com/pop/js/modern/sentry-
 ||tumblr.com/services/bblog
 ||tunein.com/api/v1/log/
-||tweakers.net/ajax/$ping
 ||twitter.com/1.1/attribution
 ||twitter.com/1.1/jot
 ||twitter.com/9/measurement/
