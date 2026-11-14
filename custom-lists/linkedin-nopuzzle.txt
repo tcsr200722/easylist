@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Title: Linkedin No Puzzles
+!
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist@protonmail.com).
+!
+! Network page (/mynetwork)
+linkedin.com#?#div:has(> a[href="https://www.linkedin.com/games/patches/"])
+! Homepage (/feed)
+linkedin.com#?#p:has-text(Today’s puzzles)
+linkedin.com#?#p:has-text(Today’s puzzles) ~ div
+! News (/news/story/*)
+linkedin.com#?#div:has(> div.news-module__subheader > h3#todays-games-entrypoint-title)

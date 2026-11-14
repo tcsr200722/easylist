@@ -8,6 +8,15 @@
 ! ||form.info-morimoto-real.jp^
 ! ||medlemskap.fagforbundet.no^
 ! ||go.oracle.com^
+! ||info.medtronicdiabetes.com^
+! ||info.mouser.com^
+! ||visit.tafensw.edu.au^
+! ||sw.broadcom.com^
+! ||lrbelgium.wolterskluwer.com^
+! ||belgium.wolterskluwer.com^
+! ||dhlsupplychain.dhl.com^
+! ||online.spsglobal.com^
+! ||horizoneurope.ukri.org^
 !
 ||10stepswp.advancedtech.com^
 ||1stparty.equifax.co.uk^
@@ -556,7 +565,6 @@
 ||bbk.pnc.com^
 ||bbworld.blackboard.com^
 ||be-go.experian.com^
-||belgium.wolterskluwer.com^
 ||belong.curtin.edu.au^
 ||beneficios.davivienda.hn^
 ||beneficios.davivienda.sv^
@@ -1022,7 +1030,6 @@
 ||dg.irco.com^
 ||dg.ptl.irco.com^
 ||dhdaa.duke.edu^
-||dhlsupplychain.dhl.com^
 ||diagnostics.thermo.com^
 ||dialer.leads360.com^
 ||dialer.velocify.com^
@@ -2061,7 +2068,6 @@
 ||hk-go.experian.com^
 ||home.edm.globalsources.com^
 ||hopeful.coh.org^
-||horizoneurope.ukri.org^
 ||hospitality.redbull.racing^
 ||hptechnology.arrow.com^
 ||hr.adp.ca^
@@ -2701,12 +2707,10 @@
 ||info.marketingcube.com.au^
 ||info.markmonitor.com^
 ||info.mdsol.com^
-||info.medtronicdiabetes.com^
 ||info.metronet.com^
 ||info.metronetbusiness.com^
 ||info.metronetinc.com^
 ||info.mkt.global.dnp.co.jp^
-||info.mouser.com^
 ||info.multiburo.com^
 ||info.natera.com^
 ||info.neg.co.jp^
@@ -3040,7 +3044,6 @@
 ||lp.tix.lehigh.edu^
 ||lp3.dentsplysirona.com^
 ||lps-info.arval.com^
-||lrbelgium.wolterskluwer.com^
 ||lrgermany.wolterskluwer.com^
 ||lrhungary.wolterskluwer.com^
 ||lritaly.wolterskluwer.com^
@@ -3363,7 +3366,6 @@
 ||online.rwdls.com^
 ||online.rwdstco.com^
 ||online.sharjahart.org^
-||online.spsglobal.com^
 ||onlineshop.ricoh.ch^
 ||onlineshop.ricoh.de^
 ||onlineshop.ricoh.it^
@@ -4038,7 +4040,6 @@
 ||sustainability.ricoh.co.za^
 ||sustainable.optum.com^
 ||suunta.visma.fi^
-||sw.broadcom.com^
 ||sweeps.la-z-boy.com^
 ||symantec.ecs.arrow.com^
 ||sys.hager.com^
@@ -5300,7 +5301,6 @@
 ||visit.hypertherm.com^
 ||visit.lifeblood.com.au^
 ||visit.oakstreethealth.com^
-||visit.tafensw.edu.au^
 ||visit.tenplay.com.au^
 ||visitor.arabiancentres.com^
 ||visitor.hotelex.cn^

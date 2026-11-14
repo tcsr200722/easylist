@@ -19,7 +19,6 @@
 ||connect.ok.ru^$third-party
 ||crowdynews.com^$third-party
 ||dailymotion.com/badge/user/$third-party
-||digg.com^$script,subdocument,third-party
 ||facebook.com/plugins/activity.php?$third-party
 ||facebook.com/plugins/facepile.php?$third-party
 ||facebook.com/plugins/fan.php?$third-party
@@ -46,7 +45,7 @@
 ||filamentapp-assets.s3.amazonaws.com^$third-party
 ||filamentapp.s3.amazonaws.com^$third-party
 ||fireworkapi.com^$third-party
-||fireworkapi1.com^$third-party
+||fireworkapi1.com^$third-party,domain=~matsukiyococokara-online.com
 ||fireworktv.com^$third-party
 ||flipboard.com/web/buttons/$third-party
 ||followistic.com^$third-party
@@ -56,6 +55,7 @@
 ||getbutton.io/widget-send-button/$third-party
 ||getsocial.io/widget/$third-party
 ||getsocial.io^*/gs_async.js$third-party
+||getsocialbar.com^$third-party
 ||google.com/_/+1/$third-party
 ||google.com^*/fastbutton?$third-party
 ||gotchosen.com^$third-party
@@ -77,7 +77,6 @@
 ||linkedin.com/countserv/$third-party
 ||linkedin.com/img/$third-party
 ||linkedin.com/uas/js/userspace?$third-party
-||linksalpha.com^$third-party
 ||loveclaw.com^$third-party
 ||markerly.com^$third-party
 ||massrelevance.com^$third-party
@@ -106,7 +105,6 @@
 ||revinate.com^$third-party
 ||scoop.it^$third-party
 ||share.itraffic.su^$third-party
-||share.static.skyrock.net^$third-party
 ||shareaholic.com^$third-party
 ||sharedcount.com^$third-party
 ||sharethis.com^$third-party
@@ -120,7 +118,6 @@
 ||storeya.com/externalscript/$third-party
 ||t.pridat.eu^$third-party
 ||trendemon.com^$third-party
-||twinesocial.com^$third-party
 ||twitter.com/account/$third-party
 ||twitter.com/i/jot
 ||twitter.com/js/timeline.$script,third-party
@@ -137,7 +134,6 @@
 ||weibo.com/staticjs/weiboshare.html$third-party
 ||widget.weibo.com^$third-party
 ||widget.whatshelp.io^$third-party
-||widgets.getpocket.com^$third-party
 ||widgets.wp.com/likes/$third-party
 ||wykop.pl/dataprovider/diggerwidget/$third-party
 ||xing-share.com^$third-party

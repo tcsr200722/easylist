@@ -4,6 +4,19 @@
 ! ||clickmail.stubhub.com^
 ! ||links.strava.com^
 ! ||wl.spotify.com^
+! ||go.playbackbone.com^
+! ||t.ac.pandora.com^
+! ||stream.9now.com.au^
+! ||link.tubi.tv^
+! ||app.teachfx.com^
+! ||open.airtelxstream.in^
+! ||deeplink.xeropan.com^
+! ||app.naga.com^
+! ||t.vrbo.io^
+! ||join.tlon.io^
+! ||cdl.booksy.com^
+! ||links.thriveglobal.com^
+! ||staging-links.thriveglobal.com^
 !
 ! Company name: Branch.io
 !
@@ -583,7 +596,6 @@
 ||app.mylogoinc.com^
 ||app.myrbhs.com.au^
 ||app.mywaggle.com^
-||app.naga.com^
 ||app.naked.insure^
 ||app.nala.money^
 ||app.nalogi.online^
@@ -686,7 +698,6 @@
 ||app.tajawal.com^
 ||app.talksport.com^
 ||app.task.io^
-||app.teachfx.com^
 ||app.test.elly.com^
 ||app.th3rdwave.coffee^
 ||app.theachieveapp.com^
@@ -1175,7 +1186,6 @@
 ||cattell.loanzify.app^
 ||cclink.carfax.com^
 ||cdanjoyner4374.myre.io^
-||cdl.booksy.com^
 ||cdl.lvsafe.io^
 ||cdl2.booksy.com^
 ||cfaexam.quantresear.ch^
@@ -1372,7 +1382,6 @@
 ||deeplink.wagr.ai^
 ||deeplink.wbnc.99array.com^
 ||deeplink.winespectator.com^
-||deeplink.xeropan.com^
 ||deeplinkdev.upoker.net^
 ||deeplinks.amex.dynamify.com^
 ||deeplinks.breaz.dynamify.com^
@@ -1832,7 +1841,6 @@
 ||get.pulsega.me^
 ||get.qapital.com^
 ||get.recolor.info^
-||get.revolut.com^
 ||get.reward.me^
 ||get.riyazapp.com^
 ||get.roomiapp.com^
@@ -2078,7 +2086,6 @@
 ||go.piccolo.mobi^
 ||go.picsart.com^
 ||go.pinoy.innovatedating.com^
-||go.playbackbone.com^
 ||go.player2app.com^
 ||go.poland.innovatedating.com^
 ||go.polen-app.com^
@@ -2364,7 +2371,6 @@
 ||join.stuypend.com^
 ||join.talker.network^
 ||join.thekrishi.com^
-||join.tlon.io^
 ||join.travelxp.com^
 ||join.vibely.io^
 ||join.vtail.co^
@@ -3013,7 +3019,6 @@
 ||link.trycircle.com^
 ||link.trymida.com^
 ||link.trytaptab.com^
-||link.tubi.tv^
 ||link.tul.io^
 ||link.tumblbug.com^
 ||link.tupinambaenergia.com.br^
@@ -3267,7 +3272,6 @@
 ||links.thedyrt.com^
 ||links.theinfatuation.com^
 ||links.thephoenix.org^
-||links.thriveglobal.com^
 ||links.tlc.com^
 ||links.travelchannel.com^
 ||links.tribe.fitness^
@@ -3498,7 +3502,6 @@
 ||onelink.taptalk.io^
 ||open-test.wynk.in^
 ||open.ailo.app^
-||open.airtelxstream.in^
 ||open.anghami.com^
 ||open.bitcoinmagazine.app^
 ||open.catchapp.mobi^
@@ -3908,7 +3911,6 @@
 ||staging-link-ccontact.focuscura.com^
 ||staging-link.docyt.com^
 ||staging-link.kol.store^
-||staging-links.thriveglobal.com^
 ||staging-refer.rooam.co^
 ||staging.findeck.link^
 ||staging.link.findeck.de^
@@ -3924,7 +3926,6 @@
 ||stg-deeplink.ring.md^
 ||store.echovisuals.com^
 ||store.esquirrel.at^
-||stream.9now.com.au^
 ||studio.joinsalut.com^
 ||subito.openapp.link^
 ||summary.instaread.co^
@@ -3932,7 +3933,6 @@
 ||surpreendaapp.hanzo.com.br^
 ||swa.anydma.com^
 ||sxarakia.openapp.link^
-||t.ac.pandora.com^
 ||t.bztest.origin.com.au^
 ||t.comms.thetimes.co.uk^
 ||t.discover.kayosports.com.au^
@@ -3945,7 +3945,6 @@
 ||t.service.thetimes.co.uk^
 ||t.staging-mail.tabcorp.com.au^
 ||t.twenty.co^
-||t.vrbo.io^
 ||t1.benefits.tops.co.th^
 ||t1.discover.flashnews.com.au^
 ||t1.stadiumgoods.com^

@@ -1,5 +1,4 @@
 ! easyprivacy_trackingservers_notifications.txt
-||accengage.net^$third-party
 ||actirinius.com^$third-party
 ||aimtell.com^$third-party
 ||alertme.news^$third-party
@@ -30,16 +29,14 @@
 ||heroesdom.com^$third-party
 ||hrbpark.bid^$third-party
 ||jeeng.com^$third-party
-||kattepush.com^$third-party
 ||letreach.com^$third-party
 ||lifterpopup.com^$third-party
 ||master-push.com^$third-party
-||master-push.net^$third-party
-||misrepush.com^$third-party
 ||moengage.com^$third-party
 ||mypush.online^$third-party
 ||najva.com^$third-party
 ||nativesubscribe.pro^$third-party
+||natom.app^$third-party
 ||netmera-web.com^$third-party
 ||notifadz.com^$third-party
 ||notify.solutions^$third-party
@@ -54,7 +51,6 @@
 ||psh.one^$third-party
 ||push-ad.com^$third-party
 ||push-free.com^$third-party
-||push-house.net^$third-party
 ||push.delivery^$third-party
 ||push7.jp^$third-party
 ||pushalert.co^$third-party
